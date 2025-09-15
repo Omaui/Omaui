@@ -20,4 +20,4 @@
 
 ##
 
-![snake animation](https://raw.githubusercontent.com/Omaui/Omaui/output/github-contribution-grid-snake-dark.svg)
+![snake animation](https://raw.githubusercontent.com/Omaui/Omaui/output/github-contribution-grid-snake.svg)
